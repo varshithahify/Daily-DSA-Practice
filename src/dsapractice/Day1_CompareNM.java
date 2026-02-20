@@ -1,7 +1,7 @@
 package dsapractice;
 
 //P1-Decision making in java(Basic)
-public class CompareNM {
+public class Day1_CompareNM {
 	public static String compareNM(int n, int m) {
 	       
 	        if(n<m){
