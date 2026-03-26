@@ -1,5 +1,6 @@
 package recursion;
 
+//program to find the possible subsets of given string
 public class Day13_Subsets {
 	static void subset(String p,String up) {
 		if(up.isEmpty()) {
