@@ -1,6 +1,7 @@
 package recursion;
 
-public class Day14_Permutation {
+// program of permutation using recursion
+ public class Day14_Permutation {
 	static void permute(String p, String up) {
 		if(up.isEmpty()) {
 			System.out.println(p);
@@ -17,7 +18,6 @@ public class Day14_Permutation {
 	}
  public static void main(String[] args) {
 	permute("","abc");
-	System.out.println("running");
 	
 }
 }
