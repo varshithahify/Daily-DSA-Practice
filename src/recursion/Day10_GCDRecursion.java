@@ -1,5 +1,6 @@
 package recursion;
 
+//added greatest common divisor
 public class Day10_GCDRecursion {
 	static int gcd(int a, int b) {
 		if (b==0)
